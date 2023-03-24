@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=csv-to-markdown
+IAge=3
+Name=Csv to markdown
+Description=Converts current csv text to a markdown table
+Description[nl]=Converteert de huidige cvs text naar een markdown tabel
+Authors=
+Copyright=MIT
+Website=
+Version=1.0
